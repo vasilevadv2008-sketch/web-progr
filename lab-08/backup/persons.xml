@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+  <person>
+    <name>Олена</name>
+    <age>20</age>
+  </person>
+  <person>
+    <name>Тарас</name>
+    <age>25</age>
+  </person>
+  <person>
+    <name>Клуб &lt;Код&gt; &amp; друзі</name>
+    <age>0</age>
+  </person>
+</people>

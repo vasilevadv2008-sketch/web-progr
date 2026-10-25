@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <book>
+    <id>a100000000000001</id>
+    <title>Таємниця старої бібліотеки</title>
+    <author>Олена Мельник</author>
+    <year>2018</year>
+  </book>
+  <book>
+    <id>a100000000000002</id>
+    <title>Місто під зорями</title>
+    <author>Іван Петренко</author>
+    <year>2021</year>
+  </book>
+  <book>
+    <id>a100000000000003</id>
+    <title>Останній рукопис</title>
+    <author>Марія Коваль</author>
+    <year>2015</year>
+  </book>
+  <book>
+    <id>77c1a03602178e62</id>
+    <title>Янголи і демони</title>
+    <author>Ден Браун</author>
+    <year>2000</year>
+  </book>
+</books>
